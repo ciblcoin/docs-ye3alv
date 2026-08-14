@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-urquxu.trans88.online/sitemap.xml
